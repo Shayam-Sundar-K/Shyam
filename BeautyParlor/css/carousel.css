@@ -1,0 +1,17 @@
+.carousel img
+{
+    width: 100%;
+}
+.carousel-caption
+{
+    width: 30%;
+    top: 50%;
+    bottom: auto;
+    background-color: rgba(255, 255, 255, 0.7);
+    color: black;
+    margin-top: 20px;    
+}
+.carousel-caption button
+{
+    border-radius: 50px; 
+}
